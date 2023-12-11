@@ -30,12 +30,13 @@ This project aimed to assist a medical staffing agency in preparing for the infl
 https://public.tableau.com/app/profile/miguel.oliveira8698/viz/CFDataImmersion2_9_2-MiguelOliveira/MedicalStaffAllocationforInfluenzaSeason2018
 
 ## Recommendations & Findings:
-+m
-+m
-+m
++ Highest influenza mortality rate is seen among people 65 years or older, confirming the initial hypothesis.
++ Influenza season typically happens in the coldest months of the year, between November and March.
++ States with the highest need for medical staff are the ones with the biggest vulnerable populations and these are also the states that have the largest number of influenza related deaths between 2009 and 2017.
++ The majority of medical staff should be sent to the states with the largest vulnerable populations between the months of November and March 
 
 ## Learning Experience:
-
+Creating intuitive and interactive visualizations in Tableau emerged as a notable challenge. I researched tutorials and troubleshooting strategies to align outcomes with my initial objectives. During this process, I uncovered unexpected findings that catalyzed new techniques to incorporate into my project. The procedural walkthrough of each step enabled me to develop a coherent narrative for my final presentation, fostering a deeper understanding of potential impacts on outcomes.
 
 ## Data Sources:
 + Underlying Cause of Death, 1999-2020 [Data set]. CDC. https://wonder.cdc.gov/ucd-icd10.html
