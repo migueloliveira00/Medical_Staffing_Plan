@@ -27,7 +27,7 @@ This project aimed to assist a medical staffing agency in preparing for the infl
 + Integrated datasets to create a new variable normalizing mortality rates for each age group.
 
 ## Visualizations:
-https://public.tableau.com/app/profile/miguel.oliveira8698/viz/CFDataImmersion2_9_2-MiguelOliveira/MedicalStaffAllocationforInfluenzaSeason2018
+[Click here to visit the Tableau story](https://public.tableau.com/app/profile/miguel.oliveira8698/viz/CFDataImmersion2_9_2-MiguelOliveira/MedicalStaffAllocationforInfluenzaSeason2018)
 
 ## Recommendations & Findings:
 + Highest influenza mortality rate is seen among people 65 years or older, confirming the initial hypothesis.
