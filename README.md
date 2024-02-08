@@ -42,15 +42,3 @@ Creating intuitive and interactive visualizations in Tableau emerged as a notabl
 + Underlying Cause of Death, 1999-2020 [Data set]. CDC. https://wonder.cdc.gov/ucd-icd10.html
 + Population data by geography [Data set]. US Census Bureau, CSV file. https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
 + Counts of influenza laboratory test results by state [Data set]. CDC Fluview, Excel file. https://images.careerfoundry.com/public/courses/data-immersion/A1-A2_Influenza_Project/CDC_Influenza_Visits.xlsx
-
-#### Google Analytics
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVDNWD5FZ6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LVDNWD5FZ6');
-</script>
